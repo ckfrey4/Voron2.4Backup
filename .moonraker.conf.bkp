@@ -108,3 +108,7 @@ managed_services = klipper
 [mmu_server]
 enable_file_preprocessor = False
 
+[spoolman]
+server = http://10.0.0.201:7912
+sync_rate = 5
+
